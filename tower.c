@@ -13,6 +13,6 @@ int n;
 char s='a',t='b',d='c';
 printf("enter no of disk:");
 scanf("%d",&n);
-toh(n,s,t,d);
+tower(n,s,t,d);
 return 0;
 }
