@@ -20,12 +20,12 @@ y=x-1;
 			 {
 				printf("\n The children pairs for day %d",days);
 				
-				for(int i=0;i<2*n;i++)
+				for(i=0;i<2*n;i++)
 				{
 					printf("\n %c %c",name[i],name[j]);
 					j--;
 				}
-				for(int i=0;i<2*n;i++)
+				for(i=0;i<2*n;i++)
 					{ 
 					char temp;
 						if(i==0)
